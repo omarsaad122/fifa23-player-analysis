@@ -39,6 +39,12 @@ This project analyzes the FIFA 23 player dataset to uncover insights about playe
 - Overall Rating vs Player Value
 - Age vs Player Value
 
+## 📸 Dashboard Screenshots
+
+![Overview Page](dashboard-overview.jpg)
+
+![Player Performance & Value Page](dashboard-performance.jpg)
+
 ## 📁 Files in this Repository
 
 | File | Description |
